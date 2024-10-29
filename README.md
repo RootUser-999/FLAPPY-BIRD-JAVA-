@@ -1,4 +1,4 @@
-# FLAPPY-BIRD-JAVA-
+# FLAPPY-BIRD
 package finalproject;
 
 import javax.swing.JFrame;
